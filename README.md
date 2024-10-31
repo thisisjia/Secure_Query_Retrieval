@@ -1,5 +1,5 @@
 # Secure_Query_Retrieval
-Credential-based routing mechanism, retrieval by query  
+Simple Credential-based routing mechanism, retrieval by query  
 
 Project to build a knowledge management system that provides secure, credential-based access to information across multiple databases. Using LangChain, RAG, and LLMs, it allows for efficient retrieval of role-specific information while ensuring data privacy.
 
